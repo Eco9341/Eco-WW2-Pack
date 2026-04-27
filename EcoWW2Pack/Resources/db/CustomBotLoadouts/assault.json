@@ -1,0 +1,29 @@
+{
+  "chances": {
+    "equipment": {
+      "FirstPrimaryWeapon": 91
+    },
+    "weaponMods": {
+      "mod_magazine": 100
+    }
+  },
+  "inventory": {
+    "equipment": {
+      "FirstPrimaryWeapon": {
+        "69e61fe28a819d09900d74e5": 323
+      }
+    },
+    "mods": {
+      "69e61fe28a819d09900d74e5": {
+        "mod_magazine": [
+          "69e63c4a8a819d09900d74e7"
+        ]
+      }
+    },
+    "Ammo": {
+      "Caliber65x52": {
+        "69e63d858a819d09900d74e9": 11123
+      }
+    }
+  }
+}
