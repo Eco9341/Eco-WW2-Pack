@@ -337,11 +337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
+      "projectUniqueName": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
       "projectName": "Eco-WW2-Pack",
-      "projectPath": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
+      "projectPath": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
       "packagesPath": "C:\\Users\\mastr\\.nuget\\packages\\",
-      "outputPath": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\EcoWW2Pack\\obj\\",
+      "outputPath": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\Eco-WW2-Pack\\EcoWW2Pack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mastr\\AppData\\Roaming\\NuGet\\NuGet.Config"

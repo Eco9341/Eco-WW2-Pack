@@ -25,7 +25,7 @@ namespace EcoWW2Pack.Helpers
         //pistols
         
         //rifles 
-        
+        private const string CEI_RIGOTTI = "69ff209a73bcef4c7fbb4cea";
         //dmr
         
         // Weapon Mods
@@ -52,12 +52,10 @@ namespace EcoWW2Pack.Helpers
             //     PPK20, VPO185
             // ]);
 
-            // // District Patrol (64e7b9bffd30422ed03dad38)
-            // questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
-            //     AK12K, AK12M1, AK12SK, AK74_NO_ROD, AK105_NO_ROD, AK105_SAG, AK_KOCHEVNIK, AK_KOCHEVNIK_FDE, SAK21, 
-            //     SAK21_BLACK, ZASTAVA_M19, ZASTAVA_M19_FDE, AS_1, AS_2, AUG_300BLK, BRN180, BRN180_FDE, LR300, LR300_FDE, 
-            //     SL8, NORINCO_M305A, SR1, SR1_FDE, TT_TR1, M700_AUTO
-            // ]);
+            // District Patrol (64e7b9bffd30422ed03dad38)
+            questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
+                CEI_RIGOTTI
+            ]);
 
             // ====================== SKIER QUESTS ======================
 

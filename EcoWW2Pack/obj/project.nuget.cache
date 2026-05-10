@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OOEPF/MWIEg=",
+  "dgSpecHash": "Cj/mlBSUwuA=",
   "success": true,
-  "projectFilePath": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
+  "projectFilePath": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mastr\\.nuget\\packages\\fastcloner\\3.3.16\\fastcloner.3.3.16.nupkg.sha512",
     "C:\\Users\\mastr\\.nuget\\packages\\jetbrains.annotations\\2025.2.2\\jetbrains.annotations.2025.2.2.nupkg.sha512",

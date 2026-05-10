@@ -29,3 +29,36 @@ C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomI
 C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Italian Gear\Carcano\Carcano_M38.json
 C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Italian Gear\Carcano\Carcano_Moschetto.json
 C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Russian Gear\RP46\RP46.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomAssortSchemes\prapor_assort.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomBotLoadouts\assault.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Ammo\ammo_65_52mm_carcano.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Italian Gear\Carcano\Carcano_M38.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Italian Gear\Carcano\Carcano_Moschetto.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Russian Gear\RP46\RP46.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Eco-WW2-Pack.staticwebassets.endpoints.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\bundles.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Italian Gear\Carcano\Carcano_1891.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Italian Gear\Cei_Rigotti\Cei_Rigotti.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Eco-WW2-Pack.deps.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Eco-WW2-Pack.dll
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Eco-WW2-Pack.pdb
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\EcoWW2Pack.csproj.AssemblyReference.cache
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\EcoWW2Pack.GeneratedMSBuildEditorConfig.editorconfig
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\EcoWW2Pack.AssemblyInfoInputs.cache
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\EcoWW2Pack.AssemblyInfo.cs
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\EcoWW2Pack.csproj.CoreCompileInputs.cache
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\EcoWW2Pack.sourcelink.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\scopedcss\bundle\Eco-WW2-Pack.styles.css
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\staticwebassets.build.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\staticwebassets.development.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\staticwebassets.build.endpoints.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\staticwebassets\msbuild.Eco-WW2-Pack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\staticwebassets\msbuild.Eco-WW2-Pack.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\staticwebassets\msbuild.build.Eco-WW2-Pack.props
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\staticwebassets\msbuild.buildMultiTargeting.Eco-WW2-Pack.props
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\staticwebassets\msbuild.buildTransitive.Eco-WW2-Pack.props
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\staticwebassets.pack.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\Eco-WW2-Pack.dll
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\refint\Eco-WW2-Pack.dll
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\Eco-WW2-Pack.pdb
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\obj\Debug\ref\Eco-WW2-Pack.dll
