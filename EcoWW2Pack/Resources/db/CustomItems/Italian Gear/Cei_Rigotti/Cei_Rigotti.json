@@ -12,7 +12,7 @@
       {
         "_name": "mod_magazine",
         "_id": "5bfd297f0db834001a66911b",
-        "_parent": "5bfd297f0db834001a669119",
+        "_parent": "69ff209a73bcef4c7fbb4cea",
         "_props": {
           "filters": [
             {
@@ -23,7 +23,7 @@
             }
           ]
         },
-        "_required": false,
+        "_required": true,
         "_mergeSlotWithChildren": false,
         "_proto": "55d30c394bdc2dae468b4577"
       }
@@ -78,10 +78,39 @@
     "modSlot": [],
     "fleaPriceRoubles": 12323,
     "handbookPriceRoubles": 9754,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "masteries": true,
-    "addWeaponPreset": false,
+    "addWeaponPreset": true,
     "weaponPresets": [
+        {
+          "_id": "6a006fabb1926c6d7c4b7875",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "Cei RIgotti",
+          "_parent": "6a006fabb1926c6d7c4b7876",
+          "_items": [
+            {
+              "_id": "6a006fabb1926c6d7c4b7876",
+              "_tpl": "69ff209a73bcef4c7fbb4cea",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "fullauto"
+                }
+              }
+            },
+            {
+              "_id": "6a006df85807c09398966168",
+              "_tpl": "69ff3ca073bcef4c7fbb4cec",
+              "parentId": "6a006fabb1926c6d7c4b7876",
+              "slotId": "mod_magazine"
+            }
+          ],
+          "_encyclopedia": "69ff209a73bcef4c7fbb4cea"
+        }
     ],
     "traders": {
       "PRAPOR": {
@@ -196,7 +225,7 @@
       "PRAPOR": {
         "69ff3ca073bcef4c7fbb4ced": {
           "barterSettings": {
-            "loyalLevel": 1,
+            "loyalLevel": 2,
             "unlimitedCount": true,
             "stackObjectsCount": 99
           },
