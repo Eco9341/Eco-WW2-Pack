@@ -1,0 +1,157 @@
+{
+  "69edf6bcd573e25abc40203b": {
+    "itemTplToClone": "5bfd297f0db834001a669119",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Carcano1891/weapon_carcano_m38_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_magazine",
+        "_id": "5bfd297f0db834001a66911b",
+        "_parent": "5bfd297f0db834001a669119",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": 0,
+              "Filter": [
+                "69e63c4a8a819d09900d74e7"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c394bdc2dae468b4577"
+      },
+      {
+        "_name": "mod_scope",
+        "_id": "5bfebc5e0db834001a6694e7",
+        "_parent": "5bfebc5e0db834001a6694e5",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "69e7e81c9f8ab48734bccbd8"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ],
+    "Chambers": [
+      {
+        "_name": "patron_in_weapon",
+        "_id": "5bfea6e90db834001b7347f8",
+        "_parent": "5bfea6e90db834001b7347f3",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "69e63d858a819d09900d74e9"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d4af244bdc2d962f8b4571"
+      }
+    ],
+    "Weight": 3.4,
+    "ammoCaliber": "Caliber65x52",
+    "defAmmo": "69e63d858a819d09900d74e9",
+    "defMagType": "69e63c4a8a819d09900d74e7",
+    "Width": 5,
+    "RecoilForceBack": 517,
+    "RecoilForceUp": 159,
+    "Ergonomics": 23,
+    "IronSightRange": 300,
+    "CenterOfImpact": 0.067,
+    "CoolFactorGun": 6.0,
+    "SightingRange": 300,
+    "Velocity": -12.34
+    },
+    "locales": {
+      "en": {
+        "name": " Carcano 1891/38 6.5x52 bolt-action Rifle",
+        "shortName": "M1891/38",
+        "description": "A modified M1891 infantry rifle introduced in December 1939, identical to the M1938 short rifle, just produced from scratch in 6.5x52. It's fitted with 300m zeroed fixed sights and the M1938 knife bayonet can be attached to the muzzle"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 22144,
+    "handbookPriceRoubles": 14432,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "69ee862e815c254858fadd00",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "Carcano M38",
+          "_parent": "69ee862e815c254858fadd01",
+          "_items": [
+            {
+              "_id": "69ee862e815c254858fadd01",
+              "_tpl": "69edf6bcd573e25abc40203b",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "69ee862b815c254858fadc1b",
+              "_tpl": "69e63c4a8a819d09900d74e7",
+              "parentId": "69ee862e815c254858fadd01",
+              "slotId": "mod_magazine"
+            }
+          ],
+          "_encyclopedia": "69edf6bcd573e25abc40203b"
+        }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "69edf6bcd573e25abc40203a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 600,
+        "Level3": 1300,
+        "Name": "Carcano 1891",
+        "Templates": [
+          "69edf6bcd573e25abc40203b"
+        ]
+      }
+    ]
+  }
+}

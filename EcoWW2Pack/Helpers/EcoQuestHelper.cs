@@ -21,11 +21,11 @@ namespace EcoWW2Pack.Helpers
         //shotguns
         
         //smg
-        
+        private const string THOMPSON_M1928 = "69eea8b5a9682e6879a537d8";  
         //pistols
         
         //rifles 
-        private const string CEI_RIGOTTI = "69ff209a73bcef4c7fbb4cea";
+        private const string CEI_RIGOTTI = "6a06febcf86e3e091872c104";
         //dmr
         
         // Weapon Mods
@@ -47,10 +47,10 @@ namespace EcoWW2Pack.Helpers
             //     MK22_HUSHPUPPY, AMT_HARDBALLER
             // ]);
 
-            // // Tickets, Please (64e7b9a4aac4cd0a726562cb)
-            // questHelper.AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", [
-            //     PPK20, VPO185
-            // ]);
+            // Tickets, Please (64e7b9a4aac4cd0a726562cb)
+             questHelper.AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", [
+                 THOMPSON_M1928
+             ]);
 
             // District Patrol (64e7b9bffd30422ed03dad38)
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
