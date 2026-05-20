@@ -1,0 +1,347 @@
+{
+  "6a0ce40499dfd9edaca1daa9": {
+    "itemTplToClone": "5bfd297f0db834001a669119",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Kar98K/weapon_kar98k_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_magazine",
+        "_id": "5bfd297f0db834001a66911b",
+        "_parent": "5bfd297f0db834001a669119",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": 0,
+              "Filter": [
+                "6a0ced4599dfd9edaca1daaa"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c394bdc2dae468b4577"
+      },
+      {
+        "_name": "mod_mount",
+        "_id": "5bfebc5e0db834001a6694e7",
+        "_parent": "5bfebc5e0db834001a6694e5",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a0df23142723bcd0581cf82"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ],
+    "Chambers": [
+      {
+        "_name": "patron_in_weapon",
+        "_id": "5bfea6e90db834001b7347f8",
+        "_parent": "5bfea6e90db834001b7347f3",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a0cf4b799dfd9edaca1daac",
+                "6a0cf4b799dfd9edaca1daae"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d4af244bdc2d962f8b4571"
+      }
+    ],
+    "Weight": 3.5,
+    "ammoCaliber": "Caliber792x57",
+    "defAmmo": "6a0cf4b799dfd9edaca1daac",
+    "defMagType": "6a0ced4599dfd9edaca1daaa",
+    "Width": 6,
+    "IronSightRange": 600,
+    "SightingRange": 600,
+    "sightModType": "iron",
+    "Ergonomics": 29,
+    "RecoilForceBack": 760,
+    "RecoilForceUp": 248,
+    "CenterOfImpact": 0.008,
+    "AimSensitivity": 0.74,
+    "CameraSnap": 3.1,
+    "Velocity": 4.15,
+    "bEffDist": 850,
+    "DurabilityBurnRatio": 0.92,
+    "HeatFactorByShot": 5.5,
+    "BaseMalfunctionChance": 0.16,
+    "SingleFireRate": 52,
+    "HipInnaccuracyGain": 0.13,
+    "HipAccuracyRestorationSpeed": 8,
+    "RecoilCamera": 0.055,
+    "RecolDispersion": 7,
+    "AimPlane": 0.28,
+    "RecoilDampingHandRotation": 0.9,
+    "RecoilReturnSpeedHandRotation": 2.45,
+    "CoolFactorGun": 5.1
+    },
+    "locales": {
+      "en": {
+        "name": "Karabiner 98 kurz 7.92x57mm bolt-action Rifle",
+        "shortName": "K98",
+        "description": "The Karabiner 98 kurz (German: [kaʁaˈbiːnɐ ˌʔaxtʔʊntˈnɔʏntsɪç ˈkʊɐ̯ts]; 'carbine 98 short'), often abbreviated Karabiner 98k, Kar98k or K98k and also sometimes incorrectly referred to as a K98 (K98 is a Polish copy of the Kar98a), is a bolt-action rifle chambered for the 7.92×57mm Mauser cartridge. It was adopted on 21 June 1935 as the standard service rifle by the German Wehrmacht. It was one of the final developments in the long line of Mauser military rifles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 20233,
+    "handbookPriceRoubles": 12334,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "6a0e2eb3a2e61319689ffd19",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "K98",
+          "_parent": "6a0e2eb3a2e61319689ffd1a",
+          "_items": [
+            {
+              "_id": "6a0e2eb3a2e61319689ffd1a",
+              "_tpl": "6a0ce40499dfd9edaca1daa9",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "6a0e2ea9a2e61319689ffbe6",
+              "_tpl": "6a0ced4599dfd9edaca1daaa",
+              "parentId": "6a0e2eb3a2e61319689ffd1a",
+              "slotId": "mod_magazine"
+            }
+          ],
+          "_encyclopedia": "6a0ce40499dfd9edaca1daa9"
+        }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a0ce40499dfd9edaca1daa8": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 600,
+        "Level3": 1300,
+        "Name": "Kar98K",
+        "Templates": [
+          "6a0ce40499dfd9edaca1daa9"
+        ]
+      }
+    ]
+  },
+  "6a0ced4599dfd9edaca1daaa": {
+    "itemTplToClone": "5ae0973a5acfc4001562206c",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Kar98K/k98_mag.bundle",
+        "rcid": ""
+      },
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "5ae0973a5acfc4001562206e",
+          "_parent": "5ae0973a5acfc4001562206c",
+          "_max_count": 5,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6a0cf4b799dfd9edaca1daac",
+                    "6a0cf4b799dfd9edaca1daae"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Karabiner 98 kurz 7.92x57mm 5-round Magazine",
+        "shortName": "K98",
+        "description": "A 5-round magazine for the Karabiner 98 kurz rifle"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 3423,
+    "handbookPriceRoubles": 2342,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "6a0ced4599dfd9edaca1daab": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5822,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a0df23142723bcd0581cf82": {
+    "itemTplToClone": "5c82342f2e221644f31c060e",
+    "parentId": "55818ae44bdc2dde698b456c",
+    "handbookParentId": "5b5f748386f774093e6cb501",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Kar98K/k98_zf39_scope.bundle",
+        "rcid": ""
+      },
+    "ModesCount": [
+      1
+    ],
+    "Slots": [
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "ZF 39 4x26 Scope",
+        "shortName": "ZF 39",
+        "description": "The ZF 39 4x26 Scope, used during World War II, was a standard issue for German snipers, providing enhanced accuracy and range."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 13234,
+    "handbookPriceRoubles": 8432,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "6a0df23142723bcd0581cf81": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 23211,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

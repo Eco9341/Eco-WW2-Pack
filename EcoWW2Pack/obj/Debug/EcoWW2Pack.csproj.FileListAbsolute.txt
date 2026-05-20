@@ -63,3 +63,12 @@ C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resourc
 C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Italian_Gear\Carcano\Carcano_Moschetto.json
 C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Italian_Gear\Cei_Rigotti\Cei_Rigotti.json
 C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Russian_Gear\RP46\RP46.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomAssortSchemes\jaeger_assort.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomAssortSchemes\peacekeeper_assort.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\American_Gear\M1918 BAR\M1918A2.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\American_Gear\Thompson\Thompson_M1A1.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Ammo\ammo_762_63mm.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Ammo\ammo_792x57mm_Mauser.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\Ammo\ammo_793_33mm_Kurz.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\German_Gear\Kar98\K98K.json
+C:\SPT 4.0\MOD_DEV\Eco-WW2-Pack\Eco-WW2-Pack\EcoWW2Pack\bin\Debug\-1.0.0\Resources\db\CustomItems\German_Gear\STG44\STG_44.json

@@ -1,5 +1,5 @@
 {
-  "6999a28e24f9ef4d100d2ed0": {
+  "6a0e3acb42723bcd0581cf85": {
     "itemTplToClone": "64637076203536ad5600c990",
     "parentId": "5447bed64bdc2d97278b4568",
     "handbookParentId": "5b5f79a486f77409407a7f94",
@@ -35,7 +35,7 @@
           "filters": [
             {
               "Filter": [
-                "69a2f05d88f7c0b4510bf3b0"
+                "6a0e3acb42723bcd0581cf86"
               ],
               "Shift": 0
             }
@@ -53,7 +53,7 @@
           "filters": [
             {
               "Filter": [
-                "69a374f8b51eb858a5008d30"
+                "6a0e3acb42723bcd0581cf87"
               ],
               "Shift": 0
             }
@@ -78,22 +78,22 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 45566,
+    "fleaPriceRoubles": 63342,
     "handbookPriceRoubles": 34524,
     "addtoTraders": false,
     "masteries": true,
     "addWeaponPreset": true,
     "weaponPresets": [
         {
-          "_id": "69a380fa6473548730988c24",
+          "_id": "6a0e3eb2561447693496cdbf",
           "_type": "Preset",
           "_changeWeaponName": false,
           "_name": "RP46",
-          "_parent": "69a380fa6473548730988c25",
+          "_parent": "6a0e3eb2561447693496cdc0",
           "_items": [
             {
-              "_id": "69a380fa6473548730988c25",
-              "_tpl": "6999a28e24f9ef4d100d2ed0",
+              "_id": "6a0e3eb2561447693496cdc0",
+              "_tpl": "6a0e3acb42723bcd0581cf85",
               "upd": {
                 "Repairable": {
                   "Durability": 100,
@@ -101,19 +101,20 @@
                 },
                 "FireMode": {
                   "FireMode": "fullauto"
-                }
+                },
+                "SpawnedInSession": true
               }
             },
             {
-              "_id": "69a380f76473548730988b83",
+              "_id": "6a0e3eae561447693496cc89",
               "_tpl": "646372518610c40fc20204e8",
-              "parentId": "69a380fa6473548730988c25",
+              "parentId": "6a0e3eb2561447693496cdc0",
               "slotId": "mod_magazine"
             },
             {
-              "_id": "69a380f76473548730988b84",
-              "_tpl": "69a2f05d88f7c0b4510bf3b0",
-              "parentId": "69a380fa6473548730988c25",
+              "_id": "6a0e3eae561447693496cc8a",
+              "_tpl": "6a0e3acb42723bcd0581cf86",
+              "parentId": "6a0e3eb2561447693496cdc0",
               "slotId": "mod_sight_rear_000",
               "upd": {
                 "Sight": {
@@ -127,15 +128,9 @@
                   "ScopeZoomValue": 0
                 }
               }
-            },
-            {
-              "_id": "69a380f76473548730988b85",
-              "_tpl": "69a374f8b51eb858a5008d30",
-              "parentId": "69a380fa6473548730988c25",
-              "slotId": "mod_cover_part_001"
             }
           ],
-          "_encyclopedia": "6999a28e24f9ef4d100d2ed0"
+          "_encyclopedia": "6a0e3acb42723bcd0581cf85"
         }
     ],
     "traders": {
@@ -167,7 +162,7 @@
       }
     ]
   },
-  "69a2f05d88f7c0b4510bf3b0": {
+  "6a0e3acb42723bcd0581cf86": {
     "itemTplToClone": "6492fb8253acae0af00a29b6",
     "parentId": "55818ac54bdc2d5b648b456e",
     "handbookParentId": "5b5f746686f77447ec5d7708",
@@ -225,8 +220,8 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "MECHANIC": {
-        "69a2f05d88f7c0b4510bf3b1": {
+      "PRAPOR": {
+        "6a0e3acb42723bcd0581cf88": {
           "barterSettings": {
             "loyalLevel": 3,
             "unlimitedCount": true,
@@ -242,7 +237,7 @@
       }
     }
   },
-  "69a374f8b51eb858a5008d30": {
+  "6a0e3acb42723bcd0581cf87": {
     "itemTplToClone": "5b7be4895acfc400170e2dd5",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
@@ -358,7 +353,7 @@
     "handbookPriceRoubles": 1123,
     "addtoTraders": true,
     "addtoBots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "staticLootContainers": [
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
@@ -390,7 +385,7 @@
     "weaponPresets": [],
     "traders": {
       "MECHANIC": {
-        "69a374f8b51eb858a5008d31": {
+        "6a0e3acb42723bcd0581cf89": {
           "barterSettings": {
             "loyalLevel": 3,
             "unlimitedCount": true,

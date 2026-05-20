@@ -202,7 +202,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "PRAPOR": {
+      "PEACEKEEPER": {
         "6a06fa8af86e3e091872c101": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -301,7 +301,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "PRAPOR": {
+      "PEACEKEEPER": {
         "6a06fad8f86e3e091872c103": {
           "barterSettings": {
             "loyalLevel": 2,

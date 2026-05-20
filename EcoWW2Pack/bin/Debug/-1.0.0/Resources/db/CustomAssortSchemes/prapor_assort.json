@@ -1,4 +1,4 @@
-   {
+{
    "PRAPOR": {
   "items": [
     {
@@ -98,8 +98,8 @@
       "slotId": "mod_magazine"
     },
     {
-      "_id": "6a084b25e15cc58068be4b7d",
-      "_tpl": "6a06febcf86e3e091872c104",
+      "_id": "6a0e3eb2561447693496cdbc",
+      "_tpl": "6a0e3acb42723bcd0581cf85",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -110,19 +110,35 @@
           "MaxDurability": 100
         },
         "FireMode": {
-          "FireMode": "single"
+          "FireMode": "fullauto"
         },
-        "BuyRestrictionMax": 1,
-        "Foldable": {
-          "Folded": false
-        }
+        "SpawnedInSession": true,
+        "BuyRestrictionMax": 1
       }
     },
     {
-      "_id": "6a084b22e15cc58068be4a5e",
-      "_tpl": "6a06fa8af86e3e091872c100",
-      "parentId": "6a084b25e15cc58068be4b7d",
+      "_id": "6a0e3eae561447693496cc89",
+      "_tpl": "646372518610c40fc20204e8",
+      "parentId": "6a0e3eb2561447693496cdbc",
       "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6a0e3eae561447693496cc8a",
+      "_tpl": "6a0e3acb42723bcd0581cf86",
+      "parentId": "6a0e3eb2561447693496cdbc",
+      "slotId": "mod_sight_rear_000",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
     }
   ],
   "barter_scheme": {
@@ -158,10 +174,10 @@
         }
       ]
     ],
-    "6a084b25e15cc58068be4b7d": [
+    "6a0e3eb2561447693496cdbc": [
       [
         {
-          "count": 19384,
+          "count": 88744,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -172,7 +188,7 @@
     "69ee862e815c254858fadcfd": 1,
     "69eeb00c7b9b149044a8fe74": 1,
     "6a006fabb1926c6d7c4b7872": 2,
-    "6a084b25e15cc58068be4b7d": 2
+    "6a0e3eb2561447693496cdbc": 3
   }
     }
 }

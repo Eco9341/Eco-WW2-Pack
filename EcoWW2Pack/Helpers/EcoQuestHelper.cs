@@ -18,14 +18,19 @@ namespace EcoWW2Pack.Helpers
         private const string Carcano_1891_M91 = "69e61fe28a819d09900d74e5";
         private const string Carcano_1891_M38 = "69edf6bcd573e25abc40203b";
         private const string Carcano_1891_MOSCHETTO = "69eea8b5a9682e6879a537d8";
+        private const string KAR98K = "6a0ce40499dfd9edaca1daa9";
         //shotguns
         
         //smg
         private const string THOMPSON_M1928 = "69eea8b5a9682e6879a537d8";  
+        private const string THOMPSON_M1A1 = "6a098cb486f368092e4252e1";  
         //pistols
         
         //rifles 
         private const string CEI_RIGOTTI = "6a06febcf86e3e091872c104";
+        private const string M1918A2 = "6a09f02c86f368092e4252e6";
+        private const string STG_44 = "6a0b33c5263dc294754193ff";
+        private const string RP46 = "6a0e3acb42723bcd0581cf85"; 
         //dmr
         
         // Weapon Mods
@@ -49,12 +54,12 @@ namespace EcoWW2Pack.Helpers
 
             // Tickets, Please (64e7b9a4aac4cd0a726562cb)
              questHelper.AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", [
-                 THOMPSON_M1928
+                 THOMPSON_M1928, THOMPSON_M1A1
              ]);
 
             // District Patrol (64e7b9bffd30422ed03dad38)
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
-                CEI_RIGOTTI
+                CEI_RIGOTTI, M1918A2, STG_44, RP46
             ]);
 
             // ====================== SKIER QUESTS ======================
@@ -76,7 +81,7 @@ namespace EcoWW2Pack.Helpers
 
             // Connections Up North (6764174c86addd02bc033d68)
             questHelper.AddWeaponsToKillCondition(quests, "6764174c86addd02bc033d68", [
-                Carcano_1891_M91, Carcano_1891_M38, Carcano_1891_MOSCHETTO
+                Carcano_1891_M91, Carcano_1891_M38, Carcano_1891_MOSCHETTO, KAR98K
             ]);
 
             // ====================== PEACEKEEPER QUESTS ======================
@@ -95,7 +100,7 @@ namespace EcoWW2Pack.Helpers
 
             var tarkovShooterWeapons = new[]
             {
-                Carcano_1891_M91, Carcano_1891_M38, Carcano_1891_MOSCHETTO
+                Carcano_1891_M91, Carcano_1891_M38, Carcano_1891_MOSCHETTO, KAR98K
             };
 
             // Tarkov Shooter Part 1-8 (WEAPONS)
@@ -125,12 +130,12 @@ namespace EcoWW2Pack.Helpers
 
             // Psycho Sniper (5c0be13186f7746f016734aa)
             questHelper.AddWeaponsToKillCondition(quests, "5c0be13186f7746f016734aa", [
-                Carcano_1891_M91, Carcano_1891_M38, Carcano_1891_MOSCHETTO
+                Carcano_1891_M91, Carcano_1891_M38, Carcano_1891_MOSCHETTO, KAR98K
             ]);
 
             // Shooter Born in Heaven (5c0bde0986f77479cf22c2f8)
             questHelper.AddWeaponsToKillCondition(quests, "5c0bde0986f77479cf22c2f8", [
-                Carcano_1891_M91, Carcano_1891_M38, Carcano_1891_MOSCHETTO
+                Carcano_1891_M91, Carcano_1891_M38, Carcano_1891_MOSCHETTO, KAR98K
             ]);
         }
     }

@@ -1,0 +1,122 @@
+{
+  "6a098cb486f368092e4252e1": {
+    "itemTplToClone": "66992b349950f5f4cd06029f",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Thompsons/weapon_thompson_m1a1_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_magazine",
+        "_id": "5ea03f7400685063ec28bfad",
+        "_parent": "5ea03f7400685063ec28bfa8",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": -1,
+              "Filter": [
+                "6a06fad8f86e3e091872c102"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c394bdc2dae468b4577"
+      }
+    ],
+    "defAmmo": "5e81f423763d9f754677bf2e",
+    "defMagType": "6a06fad8f86e3e091872c102",
+    "ammoCaliber": "Caliber1143x23ACP",
+    "Width": 4,
+    "RecoilForceBack": 290,
+    "RecoilForceUp": 78,
+    "Ergonomics": 54,
+    "IronSightRange": 150,
+    "CenterOfImpact": 0.230,
+    "CoolFactorGun": 6.0,
+    "SightingRange": 150,
+    "Velocity": -19
+    },
+    "locales": {
+      "en": {
+        "name": "Thompson M1A1 .45 ACP Submachine Gun",
+        "shortName": "M1A1",
+        "description": "The M1 and M1A1, which had provisions for box magazines only, did not have cooling fins on the barrel, had a simplified rear sight, and employed a straight blowback action with the charging handle on the side of the receiver. The M1A1 was produced from 1942 to 1944, and was the most common variant of the Thompson. It was widely used by American and Allied forces during World War II, and continued to see service in various conflicts around the world for many years after the war."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 11452,
+    "handbookPriceRoubles": 9123,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "6a0993ad2b2cea16741f3a04",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "Thompson M1A1",
+          "_parent": "6a0993ad2b2cea16741f3a05",
+          "_items": [
+            {
+              "_id": "6a0993ad2b2cea16741f3a05",
+              "_tpl": "6a098cb486f368092e4252e1",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                },
+                "Foldable": {
+                  "Folded": false
+                }
+              }
+            },
+            {
+              "_id": "6a0993a42b2cea16741f37b6",
+              "_tpl": "6a06fad8f86e3e091872c102",
+              "parentId": "6a0993ad2b2cea16741f3a05",
+              "slotId": "mod_magazine"
+            }
+          ],
+          "_encyclopedia": "6a098cb486f368092e4252e1"
+        }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a098cb486f368092e4252e0": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 600,
+        "Level3": 1300,
+        "Name": "Thompson M1928",
+        "Templates": [
+          "6a06febcf86e3e091872c104"
+        ]
+      }
+    ]
+  }
+}
