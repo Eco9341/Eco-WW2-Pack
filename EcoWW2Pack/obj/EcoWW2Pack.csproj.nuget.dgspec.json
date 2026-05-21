@@ -1,29 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj": {}
+    "Q:\\Games\\SPT_401\\MOD_DEV\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj": {}
   },
   "projects": {
-    "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj": {
-      "version": "1.0.0",
+    "Q:\\Games\\SPT_401\\MOD_DEV\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj": {
+      "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
+        "projectUniqueName": "Q:\\Games\\SPT_401\\MOD_DEV\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
         "projectName": "Eco-WW2-Pack",
-        "projectPath": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
-        "packagesPath": "C:\\Users\\mastr\\.nuget\\packages\\",
-        "outputPath": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\Eco-WW2-Pack\\EcoWW2Pack\\obj\\",
+        "projectPath": "Q:\\Games\\SPT_401\\MOD_DEV\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
+        "packagesPath": "C:\\Users\\jakec\\.nuget\\packages\\",
+        "outputPath": "Q:\\Games\\SPT_401\\MOD_DEV\\Eco-WW2-Pack\\EcoWW2Pack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mastr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jakec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -38,27 +42,28 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "SPTarkov.Common": {
               "target": "Package",
-              "version": "[4.0.3, )"
+              "version": "[4.0.13, )"
             },
             "SPTarkov.DI": {
               "target": "Package",
-              "version": "[4.0.3, )"
+              "version": "[4.0.13, )"
             },
             "SPTarkov.Server.Core": {
               "target": "Package",
-              "version": "[4.0.3, )"
+              "version": "[4.0.13, )"
             },
             "WTT-ServerCommonLib": {
               "target": "Package",
-              "version": "[2.0.18, )"
+              "version": "[2.0.20, )"
             }
           },
           "imports": [
@@ -80,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\mastr\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Eco-Attachment-Emporium.props" />
-</Project>

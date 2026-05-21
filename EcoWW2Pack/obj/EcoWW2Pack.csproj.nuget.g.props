@@ -5,17 +5,17 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\mastr\.nuget\packages\</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\jakec\.nuget\packages\</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.14.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">7.0.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\mastr\.nuget\packages\" />
+    <SourceRoot Include="C:\Users\jakec\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)wtt-servercommonlib\2.0.18\contentFiles\any\net9.0\Resources\db\CustomLocales\en.json" Condition="Exists('$(NuGetPackageRoot)wtt-servercommonlib\2.0.18\contentFiles\any\net9.0\Resources\db\CustomLocales\en.json')">
+    <Content Include="$(NuGetPackageRoot)wtt-servercommonlib\2.0.20\contentFiles\any\net9.0\Resources\db\CustomLocales\en.json" Condition="Exists('$(NuGetPackageRoot)wtt-servercommonlib\2.0.20\contentFiles\any\net9.0\Resources\db\CustomLocales\en.json')">
       <NuGetPackageId>WTT-ServerCommonLib</NuGetPackageId>
-      <NuGetPackageVersion>2.0.18</NuGetPackageVersion>
+      <NuGetPackageVersion>2.0.20</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
@@ -23,6 +23,6 @@
     </Content>
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)wtt-servercommonlib\2.0.18\build\WTT-ServerCommonLib.props" Condition="Exists('$(NuGetPackageRoot)wtt-servercommonlib\2.0.18\build\WTT-ServerCommonLib.props')" />
+    <Import Project="$(NuGetPackageRoot)wtt-servercommonlib\2.0.20\build\WTT-ServerCommonLib.props" Condition="Exists('$(NuGetPackageRoot)wtt-servercommonlib\2.0.20\build\WTT-ServerCommonLib.props')" />
   </ImportGroup>
 </Project>

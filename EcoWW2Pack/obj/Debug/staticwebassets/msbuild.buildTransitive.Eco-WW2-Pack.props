@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Eco-WW2-Pack.props" />
-</Project>
