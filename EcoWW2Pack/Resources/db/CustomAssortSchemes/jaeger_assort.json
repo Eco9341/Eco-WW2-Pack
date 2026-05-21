@@ -66,7 +66,25 @@
           "_tpl": "6a0ced4599dfd9edaca1daaa",
           "parentId": "6a0e2eb3a2e61319689ffd16",
           "slotId": "mod_magazine"
+        },
+    {
+      "_id": "6a0f94389987e02be8c13774",
+      "_tpl": "6a0f60b0fab0e58846b70bc2",
+      "parentId": "6a0e2eb3a2e61319689ffd16",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
         }
+      }
+    }
       ],
       "barter_scheme": {
         "6a0e2eb3a2e61319689ffd1b": [

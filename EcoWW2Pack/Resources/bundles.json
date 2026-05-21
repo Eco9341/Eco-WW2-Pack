@@ -357,6 +357,15 @@
             ]
         },
         {
+            "key": "Mods/STG_44/stg44_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/STG_44/stg44_textures.bundle"
+            ]
+        },
+        {
             "key": "Mods/Kar98K/k98_textures.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -415,6 +424,24 @@
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "Mods/Kar98K/k98_textures.bundle"
             ]
-        }   
+        },
+        {
+            "key": "Mods/Kar98K/k98_rear_sight.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Kar98K/k98_textures.bundle"
+            ]
+        },
+        {
+            "key": "Mods/Kar98K/k98_rail.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Kar98K/k98_textures.bundle"
+            ]
+        } 
     ]
 }

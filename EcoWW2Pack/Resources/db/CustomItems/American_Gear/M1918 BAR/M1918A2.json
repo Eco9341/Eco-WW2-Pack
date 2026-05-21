@@ -94,7 +94,7 @@
     "CoolFactorGunMods": 1.0,
     "BaseMalfunctionChance": 0.12,
     "HipInnaccuracyGain": 0.21,
-    "CenterOfImpact": -0.03,
+    "CenterOfImpact": 0.027,
     "DeviationCurve": 1.18,
     "DeviationMax": 18,
     "CompactHandling": false,

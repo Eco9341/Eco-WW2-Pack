@@ -44,6 +44,25 @@
         "_required": false,
         "_mergeSlotWithChildren": false,
         "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_rear",
+        "_id": "5bfd4cbe0db834001b7344a2",
+        "_parent": "5bfd4cbe0db834001b73449f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a0f60b0fab0e58846b70bc2",
+                "6a0f6123fab0e58846b70bc3"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
       }
     ],
     "Chambers": [
@@ -136,6 +155,24 @@
               "_tpl": "6a0ced4599dfd9edaca1daaa",
               "parentId": "6a0e2eb3a2e61319689ffd1a",
               "slotId": "mod_magazine"
+            },
+            {
+              "_id": "6a0f94389987e02be8c13774",
+              "_tpl": "6a0f60b0fab0e58846b70bc2",
+              "parentId": "6a0e2eb3a2e61319689ffd1a",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
             }
           ],
           "_encyclopedia": "6a0ce40499dfd9edaca1daa9"
@@ -337,6 +374,161 @@
           "barters": [
             {
               "count": 23211,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a0f60b0fab0e58846b70bc2": {
+    "itemTplToClone": "5ae099925acfc4001a5fc7b3",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Kar98K/k98_rear_sight.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      ],
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "K98 Rear Sight",
+        "shortName": "K98",
+        "description": "Rear sight for the K98 rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 920,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "6a0f60b0fab0e58846b70bc1": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1518,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a0f6123fab0e58846b70bc3": {
+    "itemTplToClone": "5bc5a372d4351e44f824d17f",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Kar98K/k98_rail.bundle",
+        "rcid": ""
+      },
+    "ConflictingItems": [
+      "6a0df23142723bcd0581cf82"
+    ],
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "K98 Scope rail",
+        "shortName": "K98",
+        "description": "Scope rail for the K98 rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 1811,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "6a0f6123fab0e58846b70bc4": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2626,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
