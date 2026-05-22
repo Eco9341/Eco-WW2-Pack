@@ -116,9 +116,9 @@
     },
     "locales": {
       "en": {
-        "name": "Karabiner 98 kurz 7.92x57mm bolt-action Rifle",
-        "shortName": "K98",
-        "description": "The Karabiner 98 kurz (German: [kaʁaˈbiːnɐ ˌʔaxtʔʊntˈnɔʏntsɪç ˈkʊɐ̯ts]; 'carbine 98 short'), often abbreviated Karabiner 98k, Kar98k or K98k and also sometimes incorrectly referred to as a K98 (K98 is a Polish copy of the Kar98a), is a bolt-action rifle chambered for the 7.92×57mm Mauser cartridge. It was adopted on 21 June 1935 as the standard service rifle by the German Wehrmacht. It was one of the final developments in the long line of Mauser military rifles."
+        "name": "Karabiner 98k 7.92x57 bolt-action rifle",
+        "shortName": "Kar98k",
+        "description": "The Kar98k (Karabiner 98 kurz: 'carbine 98 short'), often abbreviated Karabiner 98k, Kar98k or K98k and also sometimes incorrectly referred to as a K98 (K98 is a Polish copy of the Kar98a), is a bolt-action rifle chambered for the 7.92×57mm Mauser cartridge. It was adopted on 21 June 1935 as the standard service rifle by the German Wehrmacht. It was one of the final developments in the long line of Mauser military rifles."
       }
     },
     "addtoInventorySlots": [],
@@ -239,8 +239,8 @@
     },
     "locales": {
       "en": {
-        "name": "Karabiner 98 kurz 7.92x57mm 5-round Magazine",
-        "shortName": "K98",
+        "name": "Kar98k 7.92x57 5-round Magazine",
+        "shortName": "Kar98k",
         "description": "A 5-round magazine for the Karabiner 98 kurz rifle"
       }
     },
@@ -319,9 +319,9 @@
     },
     "locales": {
       "en": {
-        "name": "ZF 39 4x26 Scope",
+        "name": "Zeiss ZF39 4x26 Scope",
         "shortName": "ZF 39",
-        "description": "The ZF 39 4x26 Scope, used during World War II, was a standard issue for German snipers, providing enhanced accuracy and range."
+        "description": "The ZF39 4x26 Scope, used during World War II, was a standard issue for German snipers, providing enhanced accuracy and range. Manufactured by Zeiss."
       }
     },
     "addtoInventorySlots": [],
@@ -396,8 +396,8 @@
     },
     "locales": {
       "en": {
-        "name": "K98 Rear Sight",
-        "shortName": "K98",
+        "name": "Kar98k Rear Sight",
+        "shortName": "Kar98k RS",
         "description": "Rear sight for the K98 rifle."
       }
     },
@@ -474,8 +474,8 @@
     },
     "locales": {
       "en": {
-        "name": "K98 Scope rail",
-        "shortName": "K98",
+        "name": "Kar98k scope rail",
+        "shortName": "Kar98k sr.",
         "description": "Scope rail for the K98 rifle."
       }
     },

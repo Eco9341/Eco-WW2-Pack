@@ -39,7 +39,7 @@
     },
     "locales": {
       "en": {
-        "name": "7.92×57mm Mauser FMJ",
+        "name": "7.92x57mm FMJ",
         "shortName": "FMJ",
         "description": "The 7.92×57mm Mauser, also known as the 8mm Mauser, is a rimless bottlenecked rifle cartridge developed in Germany in the late 19th century. It was widely used by German forces during both World Wars and has since become a popular cartridge for hunting and target shooting. The FMJ (Full Metal Jacket) variant features a lead core encased in a harder metal shell, providing reliable feeding and penetration."
       }
@@ -115,8 +115,8 @@
     },
     "locales": {
       "en": {
-        "name": "7.92×57mm Mauser SmK L’Spur red tracer",
-        "shortName": "Tracer",
+        "name": "7.92x57mm SmK L’Spur",
+        "shortName": "SmK RT",
         "description": "The 7.92×57mm Mauser, also known as the 8mm Mauser, is a rimless bottlenecked rifle cartridge developed in Germany in the late 19th century. It was widely used by German forces during both World Wars and has since become a popular cartridge for hunting and target shooting. The SmK L’Spur variant features a pyrotechnic composition in the base of the bullet, which ignites upon firing, allowing the shooter to visually track the projectile's trajectory."
       }
     },
