@@ -127,9 +127,9 @@
     },
     "locales": {
       "en": {
-        "name": "Sturmgewehr 44 7.92×33mm Kurz Assault Rifle",
-        "shortName": "STG-44",
-        "description": "The StG 44 (abbreviation of Sturmgewehr 44) is a German assault rifle developed during World War II by Hugo Schmeisser. It is also known by its early designations as the MP 43 and MP 44 (Maschinenpistole 43 and 44). The StG 44 was an improvement of an earlier design, the Maschinenkarabiner 42(H). The StG 44 was the first successful assault rifle, with features including an intermediate cartridge, controllable automatic fire, a more compact design than a battle rifle with a higher rate of fire, and being designed primarily for hitting targets within a few hundred metres. Other rifles at the time were designed to hit targets at greater ranges, but this was found to be in excess of the range in which most combat engagements actually took place."
+        "name": "StG 44 7.92x33 assault rifle",
+        "shortName": "StG 44",
+        "description": "The StG 44 (Sturmgewehr 44: 'Assault Rifle 44') is a German assault rifle developed during World War II by Hugo Schmeisser. It is also known by its early designations as the MP 43 and MP 44 (Maschinenpistole 43 and 44). The StG 44 was an improvement of an earlier design, the Maschinenkarabiner 42(H). The StG 44 was the first successful assault rifle, with features including an intermediate cartridge, controllable automatic fire, a more compact design than a battle rifle with a higher rate of fire, and being designed primarily for hitting targets within a few hundred metres. Other rifles at the time were designed to hit targets at greater ranges, but this was found to be in excess of the range in which most combat engagements actually took place."
       }
     },
     "addtoInventorySlots": [],
@@ -252,9 +252,9 @@
     },
     "locales": {
       "en": {
-        "name": "STG-44 30-round magazine",
-        "shortName": "STG-44",
-        "description": "A 30-round magazine for the STG-44 7.92×33mm Kurz Assault Rifle"
+        "name": "StG 44 30-round magazine",
+        "shortName": "StG 44",
+        "description": "A 30-round magazine for the StG 44 7.92×33 assault rifle"
       }
     },
     "addtoInventorySlots": [],
@@ -329,9 +329,9 @@
     },
     "locales": {
       "en": {
-        "name": "STG-44 Rear Sight",
-        "shortName": "STG-44",
-        "description": "Rear sight for the STG-44 assault rifle."
+        "name": "StG 44 Rear Sight",
+        "shortName": "StG 44 RS",
+        "description": "Rear sight for the StG 44 assault rifle."
       }
     },
     "addtoInventorySlots": [],
@@ -409,9 +409,9 @@
     },
     "locales": {
       "en": {
-        "name": "STG-44 ZF-4 Scope",
-        "shortName": "ZF-4",
-        "description": "The ZF-4 scope for the STG-44 assault rifle."
+        "name": "StG 44 Zeiss ZF-4 Scope",
+        "shortName": "Zeiss ZF-4",
+        "description": "The ZF-4 scope for the STG-44 assault rifle. Manufactured by Zeiss."
       }
     },
     "addtoInventorySlots": [],
@@ -484,9 +484,9 @@
     },
     "locales": {
       "en": {
-        "name": "STG-44 scope rail",
-        "shortName": "STG-44",
-        "description": "Scope rail for the STG-44 assault rifle."
+        "name": "StG 44 scope rail",
+        "shortName": "StG 44 sr.",
+        "description": "An aftermarket scope rail for the StG 44 assault rifle."
       }
     },
     "addtoInventorySlots": [],
