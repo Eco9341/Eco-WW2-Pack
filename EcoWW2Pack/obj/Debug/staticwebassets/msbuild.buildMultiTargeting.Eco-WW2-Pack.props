@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Eco-WW2-Pack.props" />
+</Project>

@@ -38,7 +38,7 @@
     "locales": {
       "en": {
         "name": ".30-06 Springfield AP M2",
-        "shortName": "AP",
+        "shortName": "M2",
         "description": "The .30-06 Springfield, also known as 7.62×63mm, is a rifle cartridge developed by the United States Army in 1906. It was the standard U.S. military cartridge for nearly 50 years and was widely used in various firearms, including the M1918 BAR, M1903 Springfield, and M1 Garand. The .30-06 AP M2 is an armor-piercing variant of the .30-06 Springfield cartridge, designed to penetrate body armor and light cover. It features a hardened steel core that allows it to maintain its shape and penetrate targets more effectively than standard ball ammunition."
       }
     },
@@ -256,8 +256,8 @@
     "locales": {
       "en": {
         "name": ".30-06 Springfield Red Tracer",
-        "shortName": "Tracer",
-        "description": "The .30-06 Springfield, also known as 7.62×63mm, is a rifle cartridge developed by the United States Army in 1906. It was the standard U.S. military cartridge for nearly 50 years and was widely used in various firearms, including the M1918 BAR, M1903 Springfield, and M1 Garand. The .30-06 Red Tracer is a variant of the .30-06 Springfield cartridge, featuring a red tracer design for increased visibility and targeting."
+        "shortName": "RT",
+        "description": "The .30-06 Springfield, also known as 7.62x63mm, is a rifle cartridge developed by the United States Army in 1906. It was the standard U.S. military cartridge for nearly 50 years and was widely used in various firearms, including the M1918 BAR, M1903 Springfield, and M1 Garand. The .30-06 Red Tracer is a variant of the .30-06 Springfield cartridge, featuring a red tracer design for increased visibility and targeting."
       }
     },
     "addCaliberToAllCloneLocations": false,

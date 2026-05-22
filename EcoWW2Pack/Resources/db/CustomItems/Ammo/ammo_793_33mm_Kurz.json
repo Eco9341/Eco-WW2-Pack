@@ -38,9 +38,9 @@
     },
     "locales": {
       "en": {
-        "name": "7.92×33mm Kurz FMJ",
+        "name": "7.92x33mm Kurz FMJ",
         "shortName": "FMJ",
-        "description": "The 7.92×33mm Kurz, also known as the 7.92×33mm Kurz or 7.92×33mm Kurz, is a German military 7.92 mm (.323 cal, actually 0.3225 inches) rimless bottle-necked rifle cartridge, developed from 1942 to 1943 and used in the StG 44 rifle and many of its successors. A common synonym in American gun literature is '7.92mm German.' In American parlance, \"Kurz\" is frequently added to better distinguish it from the rimmed hunting cartridge 7.92×33mmR (U.S. version: .32-40 Winchester). Ballistically, its performance is very similar to that of the 7.92×57mm Mauser."
+        "description": "The 7.92x33mm Kurz, also known as the 7.92x33mm Kurz or 7.92x33mm Kurz, is a German military 7.92 mm (.323 cal, actually 0.3225 inches) rimless bottle-necked rifle cartridge, developed from 1942 to 1943 and used in the StG 44 rifle and many of its successors. A common synonym in American gun literature is '7.92mm German.' In American parlance, \"Kurz\" is frequently added to better distinguish it from the rimmed hunting cartridge 7.92x33mmR (U.S. version: .32-40 Winchester). Ballistically, its performance is very similar to that of the 7.92x57mm Mauser."
       }
     },
     "addCaliberToAllCloneLocations": false,
@@ -113,9 +113,9 @@
     },
     "locales": {
       "en": {
-        "name": "7.92×33mm Kurz Tracer",
+        "name": "7.92x33mm Kurz Tracer",
         "shortName": "Tracer",
-        "description": "The 7.92×33mm Kurz, also known as the 7.92×33mm Kurz or 7.92×33mm Kurz, is a German military 7.92 mm (.323 cal, actually 0.3225 inches) rimless bottle-necked rifle cartridge, developed from 1942 to 1943 and used in the StG 44 rifle and many of its successors. A common synonym in American gun literature is '7.92mm German.' In American parlance, \"Kurz\" is frequently added to better distinguish it from the rimmed hunting cartridge 7.92×33mmR (U.S. version: .32-40 Winchester). Ballistically, its performance is very similar to that of the 7.92×57mm Mauser."
+        "description": "The 7.92x33mm Kurz, also known as the 7.92x33mm Kurz or 7.92x33mm Kurz, is a German military 7.92 mm (.323 cal, actually 0.3225 inches) rimless bottle-necked rifle cartridge, developed from 1942 to 1943 and used in the StG 44 rifle and many of its successors. A common synonym in American gun literature is '7.92mm German.' In American parlance, \"Kurz\" is frequently added to better distinguish it from the rimmed hunting cartridge 7.92x33mmR (U.S. version: .32-40 Winchester). Ballistically, its performance is very similar to that of the 7.92x57mm Mauser."
       }
     },
     "addCaliberToAllCloneLocations": false,

@@ -70,9 +70,9 @@
     },
     "locales": {
       "en": {
-        "name": " Degtyaryov RP-46 7.62x54R Machine Gun",
+        "name": "Degtyaryov RP-46 7.62x54R light machinegun",
         "shortName": "RP-46",
-        "description": "metallic-belt fed version of the Degtyaryov machine gun adopted in 1946 with a heavier barrel to allow prolonged sustained fire. About 500 rounds could be fired continuously before the barrel had to be swapped or allowed to cool down. Also had a user-adjustable gas system, with three holes of varying diameters provided, to cope with varying environmental conditions and residue buildup. Although the empty weight of the RP-46 exceeded that of DP by 2.5 kg, when considered together with a single ammo box of 250 rounds, the RP-46 weighed 10 kg less than the DP together with the same amount of ammunition in DP pans. The RP-46 remained in Soviet service for 15 years before it was replaced (together with the SGM) by the PK machine gun"
+        "description": "Metallic-belt fed version of the Degtyaryov machine gun adopted in 1946 with a heavier barrel to allow prolonged sustained fire. About 500 rounds could be fired continuously before the barrel had to be swapped or allowed to cool down. Also had a user-adjustable gas system, with three holes of varying diameters provided, to cope with varying environmental conditions and residue buildup. Although the empty weight of the RP-46 exceeded that of DP by 2.5 kg, when considered together with a single ammo box of 250 rounds, the RP-46 weighed 10 kg less than the DP together with the same amount of ammunition in DP pans. The RP-46 remained in Soviet service for 15 years before it was replaced (together with the SGM) by the PK machine gun"
       }
     },
     "addtoInventorySlots": [],

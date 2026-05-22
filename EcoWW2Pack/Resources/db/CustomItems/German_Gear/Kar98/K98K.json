@@ -116,8 +116,8 @@
     },
     "locales": {
       "en": {
-        "name": "Karabiner 98 kurz 7.92x57mm bolt-action Rifle",
-        "shortName": "K98",
+        "name": "Karabiner 98 kurz 7.92x57mm bolt-action rifle",
+        "shortName": "Kar98K",
         "description": "The Karabiner 98 kurz (German: [kaʁaˈbiːnɐ ˌʔaxtʔʊntˈnɔʏntsɪç ˈkʊɐ̯ts]; 'carbine 98 short'), often abbreviated Karabiner 98k, Kar98k or K98k and also sometimes incorrectly referred to as a K98 (K98 is a Polish copy of the Kar98a), is a bolt-action rifle chambered for the 7.92×57mm Mauser cartridge. It was adopted on 21 June 1935 as the standard service rifle by the German Wehrmacht. It was one of the final developments in the long line of Mauser military rifles."
       }
     },
@@ -240,7 +240,7 @@
     "locales": {
       "en": {
         "name": "Karabiner 98 kurz 7.92x57mm 5-round Magazine",
-        "shortName": "K98",
+        "shortName": "K98K",
         "description": "A 5-round magazine for the Karabiner 98 kurz rifle"
       }
     },
@@ -319,9 +319,9 @@
     },
     "locales": {
       "en": {
-        "name": "ZF 39 4x26 Scope",
-        "shortName": "ZF 39",
-        "description": "The ZF 39 4x26 Scope, used during World War II, was a standard issue for German snipers, providing enhanced accuracy and range."
+        "name": "Zeiss ZF39 4x26 Scope",
+        "shortName": "ZF39",
+        "description": "The Zeiss ZF39 4x26 Scope, used during World War II, was a standard issue for German snipers, providing enhanced accuracy and range."
       }
     },
     "addtoInventorySlots": [],
@@ -396,9 +396,9 @@
     },
     "locales": {
       "en": {
-        "name": "K98 Rear Sight",
-        "shortName": "K98",
-        "description": "Rear sight for the K98 rifle."
+        "name": "K98K Rear Sight",
+        "shortName": "K98K",
+        "description": "Rear sight for the K98K rifle."
       }
     },
     "addtoInventorySlots": [],
@@ -474,9 +474,9 @@
     },
     "locales": {
       "en": {
-        "name": "K98 Scope rail",
-        "shortName": "K98",
-        "description": "Scope rail for the K98 rifle."
+        "name": "K98K Scope rail",
+        "shortName": "K98K",
+        "description": "Scope rail for the K98K rifle."
       }
     },
     "addtoInventorySlots": [],

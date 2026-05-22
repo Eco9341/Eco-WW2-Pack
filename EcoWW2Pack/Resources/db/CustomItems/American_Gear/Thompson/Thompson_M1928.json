@@ -44,7 +44,7 @@
     },
     "locales": {
       "en": {
-        "name": "Thompson M1928A1 .45 ACP Submachine Gun",
+        "name": "Thompson M1928A1 .45 ACP Submachine gun",
         "shortName": "M1928A1",
         "description": "The Thompson M1928A1 is an American submachine gun that was widely used during World War II. It is chambered in .45 ACP and features a distinctive drum magazine. The M1928A1 is known for its high rate of fire and reliability, making it a popular choice among soldiers and law enforcement officers alike."
       }
@@ -256,7 +256,7 @@
     },
     "locales": {
       "en": {
-        "name": "M1928 Thompson .45 ACP 30-round stick magazine",
+        "name": "M1928 Thompson .45 ACP 30-round magazine",
         "shortName": "M1928",
         "description": "A 30-round stick magazine for the M1928 Thompson .45 ACP submachine gun"
       }
