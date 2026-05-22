@@ -12,11 +12,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eco-WW2-Pack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+b79ebfc11e718db6641ddbfb64bfc29f6724b04d")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0+7c61df1f3631f4abeeea987ae228fb005559268b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eco-WW2-Pack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eco-WW2-Pack")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.1.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
 
