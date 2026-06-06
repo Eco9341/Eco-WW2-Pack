@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eco-WW2-Pack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0+7c61df1f3631f4abeeea987ae228fb005559268b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0+de990cf0eb6aa6aaf3954b6ad800fac97879b0e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eco-WW2-Pack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eco-WW2-Pack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.0.0")]

@@ -442,6 +442,15 @@
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "Mods/Kar98K/k98_textures.bundle"
             ]
+        },
+        {
+            "key": "Mods/Kar98K/k98_trench_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "Mods/Kar98K/k98_textures.bundle"
+            ]
         } 
     ]
 }

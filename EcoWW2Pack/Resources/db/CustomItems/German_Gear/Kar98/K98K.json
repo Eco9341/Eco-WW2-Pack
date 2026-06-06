@@ -18,7 +18,8 @@
             {
               "AnimationIndex": 0,
               "Filter": [
-                "6a0ced4599dfd9edaca1daaa"
+                "6a0ced4599dfd9edaca1daaa",
+                "6a1ee17009ef9baf4bd3193b"
               ]
             }
           ]
@@ -294,6 +295,105 @@
           "barters": [
             {
               "count": 5822,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a1ee17009ef9baf4bd3193b": {
+    "itemTplToClone": "5ae0973a5acfc4001562206c",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Kar98K/k98_trench_mag.bundle",
+        "rcid": ""
+      },
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "5ae0973a5acfc4001562206e",
+          "_parent": "5ae0973a5acfc4001562206c",
+          "_max_count": 20,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6a0cf4b799dfd9edaca1daac",
+                    "6a0cf4b799dfd9edaca1daae"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Weight": 0.8,
+      "Ergonomics": -4,
+      "Recoil": -1,
+      "ExtraSizeDown": 1
+
+    },
+    "locales": {
+      "en": {
+        "name": "Karabiner 98 kurz 7.92x57mm 20-round Trench Magazine",
+        "shortName": "K98K",
+        "description": "A 20-round magazine for the Karabiner 98 kurz rifle, meant for long periods of sustained fire in the trenches."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8432,
+    "handbookPriceRoubles": 5432,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "6a1ee17009ef9baf4bd3193c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 13452,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

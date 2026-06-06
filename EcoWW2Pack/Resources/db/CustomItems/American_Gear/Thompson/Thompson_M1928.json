@@ -33,6 +33,8 @@
     "defMagType": "6a06fa8af86e3e091872c100",
     "ammoCaliber": "Caliber1143x23ACP",
     "Width": 4,
+    "Foldable": false,
+    "CompactHandling": false,
     "RecoilForceBack": 220,
     "RecoilForceUp": 67,
     "Ergonomics": 54,
