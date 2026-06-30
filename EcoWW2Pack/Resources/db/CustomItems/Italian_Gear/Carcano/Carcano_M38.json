@@ -73,10 +73,10 @@
     "RecoilForceBack": 517,
     "RecoilForceUp": 159,
     "Ergonomics": 23,
-    "IronSightRange": 300,
+    "IronSightRange": 100,
     "CenterOfImpact": 0.067,
     "CoolFactorGun": 6.0,
-    "SightingRange": 300,
+    "SightingRange": 100,
     "Velocity": -12.34
     },
     "locales": {

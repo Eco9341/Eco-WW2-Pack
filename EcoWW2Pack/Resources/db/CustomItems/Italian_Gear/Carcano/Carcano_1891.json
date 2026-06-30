@@ -76,7 +76,7 @@
     "IronSightRange": 600,
     "CenterOfImpact": 0.027,
     "CoolFactorGun": 6.0,
-    "SightingRange": 600,
+    "SightingRange": 100,
     "sightModType": "iron"
     },
     "locales": {
