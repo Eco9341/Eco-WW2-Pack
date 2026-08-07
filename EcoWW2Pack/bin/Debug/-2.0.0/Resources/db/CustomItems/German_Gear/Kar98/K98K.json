@@ -1,0 +1,639 @@
+{
+  "6a0ce40499dfd9edaca1daa9": {
+    "itemTplToClone": "5bfd297f0db834001a669119",
+    "parentId": "5447b6254bdc2dc3278b4568",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Kar98K/weapon_kar98k_container.bundle",
+        "rcid": ""
+      },
+    "Slots": [
+      {
+        "_name": "mod_magazine",
+        "_id": "5bfd297f0db834001a66911b",
+        "_parent": "5bfd297f0db834001a669119",
+        "_props": {
+          "filters": [
+            {
+              "AnimationIndex": 0,
+              "Filter": [
+                "6a0ced4599dfd9edaca1daaa",
+                "6a1ee17009ef9baf4bd3193b"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c394bdc2dae468b4577"
+      },
+      {
+        "_name": "mod_mount",
+        "_id": "5bfebc5e0db834001a6694e7",
+        "_parent": "5bfebc5e0db834001a6694e5",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a0df23142723bcd0581cf82"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      },
+      {
+        "_name": "mod_sight_rear",
+        "_id": "5bfd4cbe0db834001b7344a2",
+        "_parent": "5bfd4cbe0db834001b73449f",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a0f60b0fab0e58846b70bc2",
+                "6a0f6123fab0e58846b70bc3"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+    ],
+    "Chambers": [
+      {
+        "_name": "patron_in_weapon",
+        "_id": "5bfea6e90db834001b7347f8",
+        "_parent": "5bfea6e90db834001b7347f3",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "6a0cf4b799dfd9edaca1daac",
+                "6a0cf4b799dfd9edaca1daae"
+              ]
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d4af244bdc2d962f8b4571"
+      }
+    ],
+    "Weight": 3.5,
+    "ammoCaliber": "Caliber792x57",
+    "defAmmo": "6a0cf4b799dfd9edaca1daac",
+    "defMagType": "6a0ced4599dfd9edaca1daaa",
+    "Width": 6,
+    "IronSightRange": 100,
+    "SightingRange": 100,
+    "sightModType": "iron",
+    "Ergonomics": 29,
+    "RecoilForceBack": 760,
+    "RecoilForceUp": 248,
+    "CenterOfImpact": 0.008,
+    "AimSensitivity": 0.74,
+    "CameraSnap": 3.1,
+    "Velocity": 4.15,
+    "bEffDist": 850,
+    "DurabilityBurnRatio": 0.92,
+    "HeatFactorByShot": 5.5,
+    "BaseMalfunctionChance": 0.16,
+    "SingleFireRate": 52,
+    "HipInnaccuracyGain": 0.13,
+    "HipAccuracyRestorationSpeed": 8,
+    "RecoilCamera": 0.055,
+    "RecolDispersion": 7,
+    "AimPlane": 0.28,
+    "RecoilDampingHandRotation": 0.9,
+    "RecoilReturnSpeedHandRotation": 2.45,
+    "CoolFactorGun": 5.1
+    },
+    "locales": {
+      "en": {
+        "name": "Karabiner 98 kurz 7.92x57mm bolt-action rifle",
+        "shortName": "Kar98K",
+        "description": "The Karabiner 98 kurz (German: [kaʁaˈbiːnɐ ˌʔaxtʔʊntˈnɔʏntsɪç ˈkʊɐ̯ts]; 'carbine 98 short'), often abbreviated Karabiner 98k, Kar98k or K98k and also sometimes incorrectly referred to as a K98 (K98 is a Polish copy of the Kar98a), is a bolt-action rifle chambered for the 7.92×57mm Mauser cartridge. It was adopted on 21 June 1935 as the standard service rifle by the German Wehrmacht. It was one of the final developments in the long line of Mauser military rifles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 20233,
+    "handbookPriceRoubles": 12334,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "6a0e2eb3a2e61319689ffd19",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "K98",
+          "_parent": "6a0e2eb3a2e61319689ffd1a",
+          "_items": [
+            {
+              "_id": "6a0e2eb3a2e61319689ffd1a",
+              "_tpl": "6a0ce40499dfd9edaca1daa9",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "6a0e2ea9a2e61319689ffbe6",
+              "_tpl": "6a0ced4599dfd9edaca1daaa",
+              "parentId": "6a0e2eb3a2e61319689ffd1a",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "6a0f94389987e02be8c13774",
+              "_tpl": "6a0f60b0fab0e58846b70bc2",
+              "parentId": "6a0e2eb3a2e61319689ffd1a",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            }
+          ],
+          "_encyclopedia": "6a0ce40499dfd9edaca1daa9"
+        }
+    ],
+    "traders": {
+      "PRAPOR": {
+        "6a0ce40499dfd9edaca1daa8": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 54677,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 600,
+        "Level3": 1300,
+        "Name": "Kar98K",
+        "Templates": [
+          "6a0ce40499dfd9edaca1daa9"
+        ]
+      }
+    ]
+  },
+  "6a0ced4599dfd9edaca1daaa": {
+    "itemTplToClone": "5ae0973a5acfc4001562206c",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Kar98K/k98_mag.bundle",
+        "rcid": ""
+      },
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "5ae0973a5acfc4001562206e",
+          "_parent": "5ae0973a5acfc4001562206c",
+          "_max_count": 5,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6a0cf4b799dfd9edaca1daac",
+                    "6a0cf4b799dfd9edaca1daae"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Karabiner 98 kurz 7.92x57mm 5-round Magazine",
+        "shortName": "K98K",
+        "description": "A 5-round magazine for the Karabiner 98 kurz rifle"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 3423,
+    "handbookPriceRoubles": 2342,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "6a0ced4599dfd9edaca1daab": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 5822,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a1ee17009ef9baf4bd3193b": {
+    "itemTplToClone": "5ae0973a5acfc4001562206c",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Kar98K/k98_trench_mag.bundle",
+        "rcid": ""
+      },
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "5ae0973a5acfc4001562206e",
+          "_parent": "5ae0973a5acfc4001562206c",
+          "_max_count": 20,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                    "6a0cf4b799dfd9edaca1daac",
+                    "6a0cf4b799dfd9edaca1daae"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Weight": 0.8,
+      "Ergonomics": -4,
+      "Recoil": -1,
+      "ExtraSizeDown": 1
+
+    },
+    "locales": {
+      "en": {
+        "name": "Karabiner 98 kurz 7.92x57mm 20-round Trench Magazine",
+        "shortName": "K98K",
+        "description": "A 20-round magazine for the Karabiner 98 kurz rifle, meant for long periods of sustained fire in the trenches."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 8432,
+    "handbookPriceRoubles": 5432,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "6a1ee17009ef9baf4bd3193c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 13452,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a0df23142723bcd0581cf82": {
+    "itemTplToClone": "5c82342f2e221644f31c060e",
+    "parentId": "55818ae44bdc2dde698b456c",
+    "handbookParentId": "5b5f748386f774093e6cb501",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Kar98K/k98_zf39_scope.bundle",
+        "rcid": ""
+      },
+    "ModesCount": [
+      1
+    ],
+    "Slots": [
+    ]
+    },
+    "locales": {
+      "en": {
+        "name": "Zeiss ZF39 4x26 Scope",
+        "shortName": "ZF39",
+        "description": "The Zeiss ZF39 4x26 Scope, used during World War II, was a standard issue for German snipers, providing enhanced accuracy and range."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_scope"
+    ],
+    "fleaPriceRoubles": 13234,
+    "handbookPriceRoubles": 8432,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 23
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 23
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "6a0df23142723bcd0581cf81": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 23211,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a0f60b0fab0e58846b70bc2": {
+    "itemTplToClone": "5ae099925acfc4001a5fc7b3",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Kar98K/k98_rear_sight.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+      ],
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "K98K Rear Sight",
+        "shortName": "K98K",
+        "description": "Rear sight for the K98K rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 920,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "6a0f60b0fab0e58846b70bc1": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1518,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "6a0f6123fab0e58846b70bc3": {
+    "itemTplToClone": "5bc5a372d4351e44f824d17f",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/Kar98K/k98_rail.bundle",
+        "rcid": ""
+      },
+    "ConflictingItems": [
+      "6a0df23142723bcd0581cf82"
+    ],
+      "ExaminedByDefault": true
+    },
+    "locales": {
+      "en": {
+        "name": "K98K Scope rail",
+        "shortName": "K98K",
+        "description": "Scope rail for the K98K rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 1811,
+    "handbookPriceRoubles": 876,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "6a0f6123fab0e58846b70bc4": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2626,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

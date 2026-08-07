@@ -1,14 +1,12 @@
-﻿using SPTarkov.DI.Annotations;
-using SPTarkov.Server.Core.Models.Common;
-using SPTarkov.Server.Core.Models.Eft.Common.Tables;
-using SPTarkov.Server.Core.Models.Utils;
-using SPTarkov.Server.Core.Services;
+﻿using SPTarkov.Common.Models.Logging;
+using SPTarkov.DI.Annotations;
+using SPTarkov.Server.Core.Models.Spt.Tables;
 using WTTServerCommonLib.Helpers;
 
 namespace EcoWW2Pack.Helpers
 {
     [Injectable]
-    public class EcoQuestHelper(DatabaseService  databaseService, ISptLogger<EcoQuestHelper> logger, QuestHelper questHelper)
+    public class EcoQuestHelper(TemplateTable templateTable, ISptLogger<EcoQuestHelper> logger, QuestHelper questHelper)
     {
 
         // Define weapon IDs
@@ -37,7 +35,7 @@ namespace EcoWW2Pack.Helpers
         
         public void ModifyQuests()
         {
-            var quests = databaseService.GetTemplates().Quests;
+            var quests = templateTable.Quests;
 
             // ReSharper disable CommentTypo
             // ====================== PRAPOR QUESTS ======================
