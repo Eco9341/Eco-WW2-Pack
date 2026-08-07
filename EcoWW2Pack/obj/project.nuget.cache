@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WUA1p0M3u08=",
+  "dgSpecHash": "/vr46FtEUDU=",
   "success": true,
   "projectFilePath": "C:\\SPT 4.0\\MOD_DEV\\Eco-WW2-Pack\\Eco-WW2-Pack\\EcoWW2Pack\\EcoWW2Pack.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,10 @@
     "C:\\Users\\mastr\\.nuget\\packages\\system.io.hashing\\9.0.9\\system.io.hashing.9.0.9.nupkg.sha512",
     "C:\\Users\\mastr\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\mastr\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
-    "C:\\Users\\mastr\\.nuget\\packages\\wtt-servercommonlib\\2.0.20\\wtt-servercommonlib.2.0.20.nupkg.sha512"
+    "C:\\Users\\mastr\\.nuget\\packages\\wtt-servercommonlib\\2.0.20\\wtt-servercommonlib.2.0.20.nupkg.sha512",
+    "C:\\Users\\mastr\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\mastr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\mastr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.18\\microsoft.aspnetcore.app.ref.9.0.18.nupkg.sha512"
   ],
   "logs": []
 }

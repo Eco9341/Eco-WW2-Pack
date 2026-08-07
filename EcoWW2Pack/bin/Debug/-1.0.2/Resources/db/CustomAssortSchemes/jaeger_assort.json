@@ -1,0 +1,152 @@
+{
+    "JAEGER": {
+      "items": [
+            {
+              "_id": "6a0e2eb3a2e61319689ffd1b",
+              "_tpl": "6a0b33c5263dc294754193ff",
+              "parentId": "hideout",
+              "slotId": "hideout",
+              "upd": {
+                "StackObjectsCount": 1,
+                "UnlimitedCount": false,
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                },
+                "BuyRestrictionMax": 1
+              }
+            },
+            {
+              "_id": "6a0e2eaea2e61319689ffbe8",
+              "_tpl": "6a0b8880a02e563a2a145010",
+              "parentId": "6a0e2eb3a2e61319689ffd1b",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "6a0e2eaea2e61319689ffbe9",
+              "_tpl": "6a0b8a84a02e563a2a145014",
+              "parentId": "6a0e2eb3a2e61319689ffd1b",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "6a0e2eb3a2e61319689ffd16",
+              "_tpl": "6a0ce40499dfd9edaca1daa9",
+              "parentId": "hideout",
+              "slotId": "hideout",
+              "upd": {
+                "StackObjectsCount": 1,
+                "UnlimitedCount": false,
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                },
+                "BuyRestrictionMax": 1
+              }
+            },
+            {
+              "_id": "6a0e2ea9a2e61319689ffbe6",
+              "_tpl": "6a0ced4599dfd9edaca1daaa",
+              "parentId": "6a0e2eb3a2e61319689ffd16",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "6a0f94389987e02be8c13774",
+              "_tpl": "6a0f60b0fab0e58846b70bc2",
+              "parentId": "6a0e2eb3a2e61319689ffd16",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+                "_id": "6a1064b3b8d28122434008df",
+                "_tpl": "6a0b88cfa02e563a2a145012",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "UnlimitedCount": true,
+                    "StackObjectsCount": 999999,
+                    "BuyRestrictionMax": 0
+                }
+            },
+            {
+                "_id": "6a10666eb8d28122434008e0",
+                "_tpl": "6a0b879aa02e563a2a14500f",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "UnlimitedCount": true,
+                    "StackObjectsCount": 999999,
+                    "BuyRestrictionMax": 0
+                }
+            }
+      ],
+      "barter_scheme": {
+        "6a0e2eb3a2e61319689ffd1b": [
+          [
+            {
+              "count": 41334,
+              "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+          ]
+        ],
+        "6a0e2eb3a2e61319689ffd16": [
+          [
+            {
+              "count": 32123,
+              "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+          ]
+        ],
+        "6a1064b3b8d28122434008df": [
+          [
+            {
+              "count": 259,
+              "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+          ]
+        ],
+        "6a10666eb8d28122434008e0": [
+          [
+            {
+              "count": 259,
+              "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+          ]
+        ]
+      },
+      "loyal_level_items": {
+        "6a0e2eb3a2e61319689ffd1b": 2,
+        "6a0e2eb3a2e61319689ffd16": 2,
+        "6a1064b3b8d28122434008df": 3,
+        "6a10666eb8d28122434008e0": 2
+      }
+    }
+}
