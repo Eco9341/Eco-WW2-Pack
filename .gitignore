@@ -5,3 +5,9 @@
 /.vs
 /EcoWW2Pack/bin/
 /EcoWW2Pack/obj/
+/Eco-WW2-Pack.sln.DotSettings.user
+/.idea/
+
+# JetBrains/ReSharper solution settings
+*.DotSettings
+*.DotSettings.user
